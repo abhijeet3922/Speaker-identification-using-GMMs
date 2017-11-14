@@ -8,8 +8,9 @@ Training corpus : It has been developed from audios taken from 'on-line VoxForge
 
 Test corpus: This consists of remaining 5 unseen utterances of the same 34 speakers taken in train corpus. All audio files are of 3-5 seconds duration and are sampled at 16000 Hz.
 
-The documentation/tutorial for this repository can be read from this blog.
+The documentation/tutorial for task in this repository can be read from this blog.
 
+https://appliedmachinelearning.wordpress.com/2017/11/14/spoken-speaker-identification-based-on-gaussian-mixture-models-python-implementation/
 
 
 
