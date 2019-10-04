@@ -49,5 +49,5 @@ def extract_features(audio,rate):
     return combined
 #    
 if __name__ == "__main__":
-     print "In main, Call extract_features(audio,signal_rate) as parameters"
+     print ("In main, Call extract_features(audio,signal_rate) as parameters")
      
